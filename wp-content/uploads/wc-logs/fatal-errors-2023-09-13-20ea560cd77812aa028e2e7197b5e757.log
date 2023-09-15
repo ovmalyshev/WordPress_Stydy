@@ -1,0 +1,218 @@
+2023-09-13T07:08:01+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function the_field(), 0 passed in /var/www/html/wordpress/wp-content/themes/my-child-theme/single.php on line 29 and at least 1 expected in /var/www/html/wordpress/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php:70
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/themes/my-child-theme/single.php(29): the_field()
+#1 /var/www/html/wordpress/wp-includes/template-loader.php(106): include('...')
+#2 /var/www/html/wordpress/wp-blog-header.php(19): require_once('...')
+#3 /var/www/html/wordpress/index.php(17): require('...')
+#4 {main}
+  thrown in /var/www/html/wordpress/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php on line 70
+
+2023-09-13T07:09:01+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function the_field(), 0 passed in /var/www/html/wordpress/wp-content/themes/my-child-theme/single.php on line 29 and at least 1 expected in /var/www/html/wordpress/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php:70
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/themes/my-child-theme/single.php(29): the_field()
+#1 /var/www/html/wordpress/wp-includes/template-loader.php(106): include('...')
+#2 /var/www/html/wordpress/wp-blog-header.php(19): require_once('...')
+#3 /var/www/html/wordpress/index.php(17): require('...')
+#4 {main}
+  thrown in /var/www/html/wordpress/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php on line 70
+
+2023-09-13T07:09:38+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function the_field(), 0 passed in /var/www/html/wordpress/wp-content/themes/my-child-theme/single.php on line 29 and at least 1 expected in /var/www/html/wordpress/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php:70
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/themes/my-child-theme/single.php(29): the_field()
+#1 /var/www/html/wordpress/wp-includes/template-loader.php(106): include('...')
+#2 /var/www/html/wordpress/wp-blog-header.php(19): require_once('...')
+#3 /var/www/html/wordpress/index.php(17): require('...')
+#4 {main}
+  thrown in /var/www/html/wordpress/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php on line 70
+
+2023-09-13T07:09:42+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function the_field(), 0 passed in /var/www/html/wordpress/wp-content/themes/my-child-theme/single.php on line 29 and at least 1 expected in /var/www/html/wordpress/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php:70
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/themes/my-child-theme/single.php(29): the_field()
+#1 /var/www/html/wordpress/wp-includes/template-loader.php(106): include('...')
+#2 /var/www/html/wordpress/wp-blog-header.php(19): require_once('...')
+#3 /var/www/html/wordpress/index.php(17): require('...')
+#4 {main}
+  thrown in /var/www/html/wordpress/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php on line 70
+
+2023-09-13T07:10:00+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function the_field(), 0 passed in /var/www/html/wordpress/wp-content/themes/my-child-theme/single.php on line 15 and at least 1 expected in /var/www/html/wordpress/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php:70
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/themes/my-child-theme/single.php(15): the_field()
+#1 /var/www/html/wordpress/wp-includes/template-loader.php(106): include('...')
+#2 /var/www/html/wordpress/wp-blog-header.php(19): require_once('...')
+#3 /var/www/html/wordpress/index.php(17): require('...')
+#4 {main}
+  thrown in /var/www/html/wordpress/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php on line 70
+
+2023-09-13T07:14:35+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function the_field(), 0 passed in /var/www/html/wordpress/wp-content/themes/my-child-theme/single.php on line 29 and at least 1 expected in /var/www/html/wordpress/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php:70
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/themes/my-child-theme/single.php(29): the_field()
+#1 /var/www/html/wordpress/wp-includes/template-loader.php(106): include('...')
+#2 /var/www/html/wordpress/wp-blog-header.php(19): require_once('...')
+#3 /var/www/html/wordpress/index.php(17): require('...')
+#4 {main}
+  thrown in /var/www/html/wordpress/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php on line 70
+
+2023-09-13T07:14:41+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function the_field(), 0 passed in /var/www/html/wordpress/wp-content/themes/my-child-theme/single.php on line 29 and at least 1 expected in /var/www/html/wordpress/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php:70
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/themes/my-child-theme/single.php(29): the_field()
+#1 /var/www/html/wordpress/wp-includes/template-loader.php(106): include('...')
+#2 /var/www/html/wordpress/wp-blog-header.php(19): require_once('...')
+#3 /var/www/html/wordpress/index.php(17): require('...')
+#4 {main}
+  thrown in /var/www/html/wordpress/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php on line 70
+
+2023-09-13T07:14:51+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function the_field(), 0 passed in /var/www/html/wordpress/wp-content/themes/my-child-theme/single.php on line 29 and at least 1 expected in /var/www/html/wordpress/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php:70
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/themes/my-child-theme/single.php(29): the_field()
+#1 /var/www/html/wordpress/wp-includes/template-loader.php(106): include('...')
+#2 /var/www/html/wordpress/wp-blog-header.php(19): require_once('...')
+#3 /var/www/html/wordpress/index.php(17): require('...')
+#4 {main}
+  thrown in /var/www/html/wordpress/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php on line 70
+
+2023-09-13T07:14:54+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function the_field(), 0 passed in /var/www/html/wordpress/wp-content/themes/my-child-theme/single.php on line 29 and at least 1 expected in /var/www/html/wordpress/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php:70
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/themes/my-child-theme/single.php(29): the_field()
+#1 /var/www/html/wordpress/wp-includes/template-loader.php(106): include('...')
+#2 /var/www/html/wordpress/wp-blog-header.php(19): require_once('...')
+#3 /var/www/html/wordpress/index.php(17): require('...')
+#4 {main}
+  thrown in /var/www/html/wordpress/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php on line 70
+
+2023-09-13T07:15:44+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function the_field(), 0 passed in /var/www/html/wordpress/wp-content/themes/my-child-theme/single.php on line 29 and at least 1 expected in /var/www/html/wordpress/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php:70
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/themes/my-child-theme/single.php(29): the_field()
+#1 /var/www/html/wordpress/wp-includes/template-loader.php(106): include('...')
+#2 /var/www/html/wordpress/wp-blog-header.php(19): require_once('...')
+#3 /var/www/html/wordpress/index.php(17): require('...')
+#4 {main}
+  thrown in /var/www/html/wordpress/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php on line 70
+
+2023-09-13T07:15:48+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function the_field(), 0 passed in /var/www/html/wordpress/wp-content/themes/my-child-theme/single.php on line 29 and at least 1 expected in /var/www/html/wordpress/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php:70
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/themes/my-child-theme/single.php(29): the_field()
+#1 /var/www/html/wordpress/wp-includes/template-loader.php(106): include('...')
+#2 /var/www/html/wordpress/wp-blog-header.php(19): require_once('...')
+#3 /var/www/html/wordpress/index.php(17): require('...')
+#4 {main}
+  thrown in /var/www/html/wordpress/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php on line 70
+
+2023-09-13T07:16:34+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function the_field(), 0 passed in /var/www/html/wordpress/wp-content/themes/my-child-theme/single.php on line 29 and at least 1 expected in /var/www/html/wordpress/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php:70
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/themes/my-child-theme/single.php(29): the_field()
+#1 /var/www/html/wordpress/wp-includes/template-loader.php(106): include('...')
+#2 /var/www/html/wordpress/wp-blog-header.php(19): require_once('...')
+#3 /var/www/html/wordpress/index.php(17): require('...')
+#4 {main}
+  thrown in /var/www/html/wordpress/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php on line 70
+
+2023-09-13T07:17:31+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function the_field(), 0 passed in /var/www/html/wordpress/wp-content/themes/my-child-theme/single.php on line 29 and at least 1 expected in /var/www/html/wordpress/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php:70
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/themes/my-child-theme/single.php(29): the_field()
+#1 /var/www/html/wordpress/wp-includes/template-loader.php(106): include('...')
+#2 /var/www/html/wordpress/wp-blog-header.php(19): require_once('...')
+#3 /var/www/html/wordpress/index.php(17): require('...')
+#4 {main}
+  thrown in /var/www/html/wordpress/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php on line 70
+
+2023-09-13T07:18:29+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function the_field(), 0 passed in /var/www/html/wordpress/wp-content/themes/my-child-theme/single.php on line 29 and at least 1 expected in /var/www/html/wordpress/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php:70
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/themes/my-child-theme/single.php(29): the_field()
+#1 /var/www/html/wordpress/wp-includes/template-loader.php(106): include('...')
+#2 /var/www/html/wordpress/wp-blog-header.php(19): require_once('...')
+#3 /var/www/html/wordpress/index.php(17): require('...')
+#4 {main}
+  thrown in /var/www/html/wordpress/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php on line 70
+
+2023-09-13T07:18:32+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function the_field(), 0 passed in /var/www/html/wordpress/wp-content/themes/my-child-theme/single.php on line 29 and at least 1 expected in /var/www/html/wordpress/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php:70
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/themes/my-child-theme/single.php(29): the_field()
+#1 /var/www/html/wordpress/wp-includes/template-loader.php(106): include('...')
+#2 /var/www/html/wordpress/wp-blog-header.php(19): require_once('...')
+#3 /var/www/html/wordpress/index.php(17): require('...')
+#4 {main}
+  thrown in /var/www/html/wordpress/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php on line 70
+
+2023-09-13T07:18:36+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function the_field(), 0 passed in /var/www/html/wordpress/wp-content/themes/my-child-theme/single.php on line 29 and at least 1 expected in /var/www/html/wordpress/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php:70
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/themes/my-child-theme/single.php(29): the_field()
+#1 /var/www/html/wordpress/wp-includes/template-loader.php(106): include('...')
+#2 /var/www/html/wordpress/wp-blog-header.php(19): require_once('...')
+#3 /var/www/html/wordpress/index.php(17): require('...')
+#4 {main}
+  thrown in /var/www/html/wordpress/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php on line 70
+
+2023-09-13T14:01:43+00:00 CRITICAL Cannot redeclare wp_add_description() (previously declared in /var/www/html/wordpress/wp-content/themes/my-child-theme/content.php:44) in /var/www/html/wordpress/wp-content/themes/my-child-theme/content.php on line 44
+
+2023-09-13T14:02:09+00:00 CRITICAL Cannot redeclare wp_add_description() (previously declared in /var/www/html/wordpress/wp-content/themes/my-child-theme/content.php:44) in /var/www/html/wordpress/wp-content/themes/my-child-theme/content.php on line 44
+
+2023-09-13T14:02:18+00:00 CRITICAL Cannot redeclare wp_add_description() (previously declared in /var/www/html/wordpress/wp-content/themes/my-child-theme/content.php:44) in /var/www/html/wordpress/wp-content/themes/my-child-theme/content.php on line 44
+
+2023-09-13T14:02:28+00:00 CRITICAL Cannot redeclare wp_add_description() (previously declared in /var/www/html/wordpress/wp-content/themes/my-child-theme/content.php:44) in /var/www/html/wordpress/wp-content/themes/my-child-theme/content.php on line 44
+
+2023-09-13T14:04:27+00:00 CRITICAL Cannot redeclare wp_add_description() (previously declared in /var/www/html/wordpress/wp-content/themes/my-child-theme/content.php:44) in /var/www/html/wordpress/wp-content/themes/my-child-theme/content.php on line 44
+
+2023-09-13T14:05:05+00:00 CRITICAL Cannot redeclare wp_add_description() (previously declared in /var/www/html/wordpress/wp-content/themes/my-child-theme/content.php:79) in /var/www/html/wordpress/wp-content/themes/my-child-theme/content.php on line 78
+
+2023-09-13T14:05:25+00:00 CRITICAL Cannot redeclare wp_add_description() (previously declared in /var/www/html/wordpress/wp-content/themes/my-child-theme/content.php:77) in /var/www/html/wordpress/wp-content/themes/my-child-theme/content.php on line 76
+
+2023-09-13T14:09:26+00:00 CRITICAL Cannot redeclare wp_add_description() (previously declared in /var/www/html/wordpress/wp-content/themes/my-child-theme/content.php:77) in /var/www/html/wordpress/wp-content/themes/my-child-theme/content.php on line 77
+
+2023-09-13T14:09:32+00:00 CRITICAL Cannot redeclare wp_add_description() (previously declared in /var/www/html/wordpress/wp-content/themes/my-child-theme/content.php:77) in /var/www/html/wordpress/wp-content/themes/my-child-theme/content.php on line 77
+
+2023-09-13T14:09:59+00:00 CRITICAL Cannot redeclare wp_add_description() (previously declared in /var/www/html/wordpress/wp-content/themes/my-child-theme/content.php:79) in /var/www/html/wordpress/wp-content/themes/my-child-theme/content.php on line 78
+
+2023-09-13T14:10:03+00:00 CRITICAL Cannot redeclare wp_add_description() (previously declared in /var/www/html/wordpress/wp-content/themes/my-child-theme/content.php:79) in /var/www/html/wordpress/wp-content/themes/my-child-theme/content.php on line 79
+
+2023-09-13T14:43:58+00:00 CRITICAL Unclosed '{' on line 30 in /var/www/html/wordpress/wp-content/themes/my-child-theme/functions.php on line 46
+
+2023-09-13T14:44:13+00:00 CRITICAL Unclosed '{' on line 30 in /var/www/html/wordpress/wp-content/themes/my-child-theme/functions.php on line 46
+
+2023-09-13T14:44:28+00:00 CRITICAL Unclosed '{' on line 30 in /var/www/html/wordpress/wp-content/themes/my-child-theme/functions.php on line 46
+
+2023-09-13T14:45:15+00:00 CRITICAL Unclosed '{' on line 30 in /var/www/html/wordpress/wp-content/themes/my-child-theme/functions.php on line 46
+
+2023-09-13T14:45:24+00:00 CRITICAL Unclosed '{' on line 30 in /var/www/html/wordpress/wp-content/themes/my-child-theme/functions.php on line 46
+
+2023-09-13T14:46:10+00:00 CRITICAL Unclosed '{' on line 30 in /var/www/html/wordpress/wp-content/themes/my-child-theme/functions.php on line 46
+
+2023-09-13T14:46:12+00:00 CRITICAL Unclosed '{' on line 30 in /var/www/html/wordpress/wp-content/themes/my-child-theme/functions.php on line 46
+
+2023-09-13T14:46:29+00:00 CRITICAL Unclosed '{' on line 30 in /var/www/html/wordpress/wp-content/themes/my-child-theme/functions.php on line 46
+
+2023-09-13T14:46:44+00:00 CRITICAL Unclosed '{' on line 30 in /var/www/html/wordpress/wp-content/themes/my-child-theme/functions.php on line 46
+
+2023-09-13T14:47:00+00:00 CRITICAL Unclosed '{' on line 30 in /var/www/html/wordpress/wp-content/themes/my-child-theme/functions.php on line 46
+
+2023-09-13T14:47:11+00:00 CRITICAL Unclosed '{' on line 30 in /var/www/html/wordpress/wp-content/themes/my-child-theme/functions.php on line 46
+
+2023-09-13T14:47:13+00:00 CRITICAL Unclosed '{' on line 30 in /var/www/html/wordpress/wp-content/themes/my-child-theme/functions.php on line 46
+
+2023-09-13T14:47:14+00:00 CRITICAL Unclosed '{' on line 30 in /var/www/html/wordpress/wp-content/themes/my-child-theme/functions.php on line 46
+
+2023-09-13T14:47:16+00:00 CRITICAL Unclosed '{' on line 30 in /var/www/html/wordpress/wp-content/themes/my-child-theme/functions.php on line 46
+
+2023-09-13T14:47:16+00:00 CRITICAL Unclosed '{' on line 30 in /var/www/html/wordpress/wp-content/themes/my-child-theme/functions.php on line 46
+
+2023-09-13T14:49:00+00:00 CRITICAL Unclosed '{' on line 30 in /var/www/html/wordpress/wp-content/themes/my-child-theme/functions.php on line 46
+
+2023-09-13T14:51:01+00:00 CRITICAL Unclosed '{' on line 30 in /var/www/html/wordpress/wp-content/themes/my-child-theme/functions.php on line 46
+
+2023-09-13T14:53:46+00:00 CRITICAL syntax error, unexpected variable "$terms" in /var/www/html/wordpress/wp-content/themes/my-child-theme/functions.php on line 39
+
+2023-09-13T14:57:11+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Term::data() in /var/www/html/wordpress/wp-content/themes/my-child-theme/functions.php:39
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): wp_add_description()
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#2 /var/www/html/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/html/wordpress/wp-content/themes/my-child-theme/content.php(44): do_action()
+#4 /var/www/html/wordpress/wp-includes/template.php(787): require('...')
+#5 /var/www/html/wordpress/wp-includes/template.php(720): load_template()
+#6 /var/www/html/wordpress/wp-includes/general-template.php(206): locate_template()
+#7 /var/www/html/wordpress/wp-content/themes/unite/archive.php(32): get_template_part()
+#8 /var/www/html/wordpress/wp-includes/template-loader.php(106): include('...')
+#9 /var/www/html/wordpress/wp-blog-header.php(19): require_once('...')
+#10 /var/www/html/wordpress/index.php(17): require('...')
+#11 {main}
+  thrown in /var/www/html/wordpress/wp-content/themes/my-child-theme/functions.php on line 39
+
